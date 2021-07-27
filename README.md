@@ -13,13 +13,13 @@ The expected output is in the "output_part2.1.txt" file
 or
 ./query_tree rebase210.txt 
 <string of recognition sequences>
- Example: 
-  ./query_tree rebase210.txt 
-  Enter the recognition sequences like : Y'GGCCR 
+Example: 
+./query_tree rebase210.txt 
+Enter the recognition sequences like : Y'GGCCR 
  
   
- To run the test_tree_mod.cc/test_tree.cc
- g++ -std=c++14 -o test_tree/test_tree_mod test_tree_mod.cc/test_tree.cc
-  ./<test_tree or test_tree_mod> rebase210.txt sequences.txt
+To run the test_tree_mod.cc/test_tree.cc
+g++ -std=c++14 -o test_tree/test_tree_mod test_tree_mod.cc/test_tree.cc
+./<test_tree or test_tree_mod> rebase210.txt sequences.txt
   
   
