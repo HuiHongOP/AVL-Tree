@@ -25,7 +25,7 @@
     <p>To run the test_tree_mod.cc/test_tree.cc </p>
     <p>g++ -std=c++14 -o test_tree/test_tree_mod test_tree_mod.cc/test_tree.cc </p>
     <p>./query_tree rebase210.txt </p>
-    <p>./<test_tree or test_tree_mod> rebase210.txt sequences.txt </p>
+    <p>./test_tree or test_tree_mod rebase210.txt sequences.txt </p>
 
 </body>
 </html>
